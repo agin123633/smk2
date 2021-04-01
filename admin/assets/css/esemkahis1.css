@@ -1,0 +1,23 @@
+/*Design table 1*/
+.table1{
+    font-family: 'Times New Roman';
+    color: #444;
+    border-collapse: collapse;
+    width: auto;
+    border: 1px solid #999;
+}
+.table1 tr, th{
+    background: steelblue;
+    font-weight: normal;
+    
+
+}
+.table1, th, td{
+    border: 1px solid rgb(0, 0, 0);
+    color: black;
+    padding: 8px 20px;
+    text-align: center;
+}
+.table1 tr{
+    background-color: rgb(255, 255, 255);
+}
